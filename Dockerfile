@@ -7,6 +7,10 @@ ENV NEO4J_HOME /var/lib/neo4j
 # Set Neo4j's default credentials (can be overridden)
 ENV NEO4J_AUTH=neo4j/testpassword
 
+# Copy the notebooks and data folders into the container
+COPY notebooks /var/lib/neo4j/notebooks
+COPY data /var/lib/neo4j/data
+
 # Optional: If you need to set specific configurations
 # COPY ./neo4j.conf /var/lib/neo4j/conf/neo4j.conf
 

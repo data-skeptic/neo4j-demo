@@ -1,0 +1,154 @@
+From,To,Type,Legend,Alt_Legend,Branch,Owl,Shape,Shape_len
+Oakton-Skokie,Howard,Elevated or at Grade,YL,YL,Yellow Line,No,Polyline,21195.44443
+Pulaski-Midway,Kedzie-Midway,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,5879.427258
+Belmont-O'Hare,Logan Square,Subway,BL,BL,Blue Line O'Hare,Yes,Polyline,3515.432743
+Kedzie-Homan,Western-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,4809.553793
+Paulina Junction,Polk,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,5100.674863
+Division/Milwaukee,Chicago/Milwaukee,Subway,BL,BL,Blue Line O'Hare,Yes,Polyline,4058.725225
+Belmont-North Main,Wellington,Elevated or at Grade,RD,RPB,Red Line North Side,Yes,Polyline,1355.33607
+Irving Park-Ravenswood,Addison-Ravenswood,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,2731.994588
+Jarvis,Morse,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,3001.49786
+Cermak-Chinatown,Roosevelt/State,Subway,RD,RD,Red Line Dan Ryan,Yes,Polyline,5556.9765
+UIC-Halsted,Clinton-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,2358.223604
+Jackson/State,Harrison,Subway,RD,RD,Red Line State Street Subway,Yes,Polyline,1499.381566
+Chicago/Franklin,Merchandise Mart,Elevated or at Grade,BR,BRPR,Brown Line,No,Polyline,3099.664177
+Clark/Lake,State/Lake,Elevated or at Grade,ML,L4,Loop Elevated,No,Polyline,830.774585
+Subway Portal B,North/Clybourn,Subway,RD,RD,Red Line North Side,Yes,Polyline,1620.929002
+79th,69th,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,6546.792039
+43rd,Indiana,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,2502.480315
+Laramie,Cicero-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2811.631942
+Pulaski-Douglas,Central Park,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2574.171766
+Kimball,Kedzie-Ravenswood,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,1790.3946
+Kedzie-Midway,Western-Midway,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,5524.174759
+Western-Ravenswood,Damen-Ravenswood,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,2684.375128
+Ashland-Lake,Morgan,Elevated or at Grade,ML,PKGR,Green Line Lake Street,No,Polyline,4067.505131
+Montrose-Ravenswood,Irving Park-Ravenswood,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,2634.829426
+Garfield-Dan Ryan,47th-Dan Ryan,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,5476.512229
+Halsted-Midway,17th Junction,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,7782.010063
+Tower 18,Clark/Lake,Elevated or at Grade,ML,L4,Loop Elevated,No,Polyline,824.344786
+Grand/State,Lake/State,Subway,RD,RD,Red Line North Side,Yes,Polyline,2499.421187
+North/Clybourn,Clark/Division,Subway,RD,RD,Red Line North Side,Yes,Polyline,5829.10158
+Jefferson Park,Montrose-O'Hare,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,5796.537855
+Kedzie-Douglas,California-Douglas,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2889.800417
+California-Lake,Paulina Junction,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,7309.368408
+Rockwell,Western-Ravenswood,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,1525.429301
+18th,Polk,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,4977.226049
+Racine,UIC-Halsted,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,2681.143552
+Paulina Junction,Ashland-Lake,Elevated or at Grade,ML,PKGR,Green Line Lake Street,No,Polyline,675.178121
+Wilson,Sheridan,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,4256.90095
+Halsted/63rd,59th Junction,Elevated or at Grade,GR,GR,Green Line Ashland/63rd Branch,No,Polyline,9551.670404
+Library,LaSalle/Van Buren,Elevated or at Grade,ML,L3,Loop Elevated,No,Polyline,960.148635
+Roosevelt/Wabash,Tower 12,Elevated or at Grade,ML,GROR,Green Line South Elevated,No,Polyline,3441.161016
+Morgan,Clinton-Lake,Elevated or at Grade,ML,PKGR,Green Line Lake Street,No,Polyline,2791.003036
+Clinton-Lake,Tower 18,Elevated or at Grade,ML,PKGR,Green Line Lake Street,No,Polyline,2139.86652
+Oak Park-Congress,Austin-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,4060.368802
+Harlem-Lake,Oak Park-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2558.177793
+Harlem-O'Hare,Jefferson Park,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,14394.666436
+Austin-Lake,Central-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2311.091381
+54/Cermak,Cicero-Douglas,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,3093.089921
+Montrose-O'Hare,Irving Park-O'Hare,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,5022.851249
+Western-Congress,Illinois Medical District,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,3946.196573
+Western/Milwaukee,Damen/Milwaukee,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,3572.81355
+Illinois Medical District,Loomis Junction,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,1747.724481
+Damen/Milwaukee,Division/Milwaukee,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,3793.536069
+Chicago/Milwaukee,Grand/Milwaukee,Subway,BL,BL,Blue Line O'Hare,Yes,Polyline,2737.490698
+Addison-Ravenswood,Paulina,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,2024.296732
+Paulina,Southport,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,1979.486271
+Diversey,Fullerton,Elevated or at Grade,RD,RPB,Red Line North Side,Yes,Polyline,2799.749884
+Thorndale,Bryn Mawr,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,2462.586959
+Howard,Jarvis,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,1554.32866
+Jackson/Dearborn,LaSalle,Subway,BL,BL,Blue Line Dearborn Subway,Yes,Polyline,1569.026226
+Roosevelt/State,Harrison,Subway,RD,RD,Red Line State Street Subway,Yes,Polyline,2431.450805
+Chicago/State,Grand/State,Subway,RD,RD,Red Line North Side,Yes,Polyline,1824.767976
+Garfield-South Elevated,51st,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,2520.365767
+Ridgeland,Austin-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2594.492724
+Central-Lake,Laramie,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2916.164281
+Cicero-Douglas,Kostner,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,3538.786543
+Cicero-Congress,Pulaski-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,5492.162756
+Kostner,Pulaski-Douglas,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2435.417418
+Pulaski-Lake,Conservatory-Central Park,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2425.429648
+Addison-O'Hare,Belmont-O'Hare,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,4022.02711
+Western-Douglas,Damen,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2508.233473
+California/Milwaukee,Western/Milwaukee,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,3340.72624
+Main,South Blvd.,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,2155.039329
+Linden,Central-Evanston,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,3618.7281
+Noyes,Foster,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,1504.342751
+Central-Evanston,Noyes,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,2193.05017
+Ashland-Midway,Halsted-Midway,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,5445.501607
+Damen,18th,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2970.153398
+Clark Junction,Belmont-North Main,Elevated or at Grade,RD,RPB,Red Line North Side,Yes,Polyline,884.366128
+Damen-Ravenswood,Montrose-Ravenswood,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,2371.581205
+Lawrence,Wilson,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,1798.768198
+Bryn Mawr,Berwyn,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,2012.212864
+17th Junction,Roosevelt/Wabash,Elevated or at Grade,ML,GROR,Green Line South Elevated,No,Polyline,3151.194152
+Clinton-Congress,LaSalle,Subway,BL,BL,Blue Line Forest Park,Yes,Polyline,2522.932963
+Tower 12,Library,Elevated or at Grade,ML,L3,Loop Elevated,No,Polyline,647.793225
+Fullerton,Armitage,Elevated or at Grade,RD,RPB,Red Line North Side,Yes,Polyline,2491.420693
+Subway Portal B,Sedgwick,Elevated or at Grade,BR,BRPR,Brown Line,No,Polyline,4303.794929
+Cottage Grove,King Drive,Elevated or at Grade,GR,GR,Green Line East 63rd Branch,No,Polyline,2643.49567
+59th Junction,Garfield-South Elevated,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,2810.024259
+Cermak-McCormick Place,17th Junction,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,2057.480507
+Cumberland,Harlem-O'Hare,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,8013.705631
+Harlem-Congress,Oak Park-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,4213.413708
+Conservatory-Central Park,Kedzie-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2831.178857
+Western-Midway,35th/Archer,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,11059.72247
+California-Douglas,Western-Douglas,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2627.771643
+Francisco,Rockwell,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,2052.127181
+Ashland/63rd,Halsted/63rd,Elevated or at Grade,GR,GR,Green Line Ashland/63rd Branch,No,Polyline,5416.267312
+Sheridan,Addison-North Main,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,2581.713721
+Berwyn,Argyle,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,1651.480045
+Argyle,Lawrence,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,1572.30911
+69th,63rd-Dan Ryan,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,4848.194081
+Merchandise Mart,Tower 18,Elevated or at Grade,BR,BRPR,Brown Line,No,Polyline,1182.089156
+Clark/Division,Chicago/State,Subway,RD,RD,Red Line North Side,Yes,Polyline,3370.112929
+Rosemont,Cumberland,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,5815.960602
+Forest Park,Harlem-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,2881.688341
+Pulaski-Congress,Kedzie-Homan,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,5361.254795
+Kedzie-Ravenswood,Francisco,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,1955.021551
+Kedzie-Lake,California-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2708.389481
+Dempster,Main,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,3046.418214
+35th/Archer,Ashland-Midway,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,5489.06291
+Wellington,Diversey,Elevated or at Grade,RD,RPB,Red Line North Side,Yes,Polyline,1203.55975
+Morse,Loyola,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,3131.410552
+Loyola,Granville,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,2830.409377
+63rd-Dan Ryan,Garfield-Dan Ryan,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,5425.129213
+Washington/Wells,Tower 18,Elevated or at Grade,ML,L3,Loop Elevated,No,Polyline,1104.107321
+Jackson/Dearborn,Monroe/Dearborn,Subway,BL,BL,Blue Line Dearborn Subway,Yes,Polyline,918.932131
+Monroe/State,Jackson/State,Subway,RD,RD,Red Line State Street Subway,Yes,Polyline,944.877871
+Grand/Milwaukee,Clark/Lake,Subway,BL,BL,Blue Line O'Hare,Yes,Polyline,5334.585725
+Armitage,Subway Portal B,Elevated or at Grade,RD,RPB,Red Line North Side,Yes,Polyline,1515.432871
+King Drive,59th Junction,Elevated or at Grade,GR,GR,Green Line East 63rd Branch,No,Polyline,3308.823738
+51st,47th-South Elevated,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,2597.667938
+O'Hare Airport,Subway Portal A,Subway,BL,BL,Blue Line O'Hare,Yes,Polyline,2195.064752
+Subway Portal A,Rosemont,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,11048.42139
+Oak Park-Lake,Ridgeland,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,2757.127053
+Austin-Congress,Cicero-Congress,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,8734.717507
+Midway Airport,Pulaski-Midway,Elevated or at Grade,OR,OR,Orange Line,No,Polyline,6923.362145
+Cicero-Lake,Pulaski-Lake,Elevated or at Grade,GR,GR,Green Line Lake Street,No,Polyline,5269.520375
+Dempster-Skokie,Oakton-Skokie,Elevated or at Grade,YL,YL,Yellow Line,No,Polyline,4828.48427
+Central Park,Kedzie-Douglas,Elevated or at Grade,PK,PK,Pink Line,No,Polyline,2575.744304
+Logan Square,California/Milwaukee,Subway,BL,BL,Blue Line O'Hare,Yes,Polyline,4266.422371
+Irving Park-O'Hare,Addison-O'Hare,Elevated or at Grade,BL,BL,Blue Line O'Hare,Yes,Polyline,3420.290535
+Davis,Dempster,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,2284.09681
+Foster,Davis,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,2351.054847
+Loomis Junction,Racine,Elevated or at Grade,BL,BL,Blue Line Forest Park,Yes,Polyline,2199.893623
+Southport,Clark Junction,Elevated or at Grade,BR,BR,Brown Line,No,Polyline,3163.236427
+Addison-North Main,Clark Junction,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,1918.716639
+Granville,Thorndale,Elevated or at Grade,RD,RDPR,Red Line North Side,Yes,Polyline,1241.323376
+South Blvd.,Howard,Elevated or at Grade,PR,PR,Purple Line Evanston,No,Polyline,3636.173397
+47th-Dan Ryan,Sox-35th-Dan Ryan,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,7640.992973
+Sox-35th-Dan Ryan,Cermak-Chinatown,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,8041.451907
+Quincy/Wells,Washington/Wells,Elevated or at Grade,ML,L3,Loop Elevated,No,Polyline,1447.78613
+LaSalle/Van Buren,Quincy/Wells,Elevated or at Grade,ML,L3,Loop Elevated,No,Polyline,1179.72645
+Washington/Dearborn,Monroe/Dearborn,Subway,BL,BL,Blue Line Dearborn Subway,Yes,Polyline,896.981785
+Lake/State,Monroe/State,Subway,RD,RD,Red Line State Street Subway,Yes,Polyline,1481.462874
+Sedgwick,Chicago/Franklin,Elevated or at Grade,BR,BRPR,Brown Line,No,Polyline,5532.304574
+Clark/Lake,Washington/Dearborn,Subway,BL,BL,Blue Line Dearborn Subway,Yes,Polyline,1285.128506
+State/Lake,Washington/Wabash,Elevated or at Grade,ML,L4,Loop Elevated,No,Polyline,1317.604924
+87th,79th,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,5482.440067
+95/Dan Ryan,87th,Elevated or at Grade,RD,RD,Red Line Dan Ryan,Yes,Polyline,4736.477989
+Indiana,35-Bronzeville-IIT,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,4677.796949
+47th-South Elevated,43rd,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,2644.180996
+35-Bronzeville-IIT,Cermak-McCormick Place,Elevated or at Grade,GR,GR,Green Line South Elevated,No,Polyline,7813.440088
+Washington/Wabash,Adams/Wabash,Elevated or at Grade,ML,L4,Loop Elevated,No,Polyline,1352.120554
+Adams/Wabash,Tower 12,Elevated or at Grade,ML,L4,Loop Elevated,No,Polyline,1022.956834
